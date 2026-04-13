@@ -1,4 +1,5 @@
-# LifeTrack AI
+# LifeTrack AI 
+[Live Demo 🔗](https://lifetrack-ai.netlify.app/login)
 
 A modern, intelligent life and task management application built with React, TypeScript, and AI-powered features. LifeTrack AI helps you organize your life, track your goals, and get AI-assisted guidance through an interactive chatbot.
 
